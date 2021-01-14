@@ -1,0 +1,10 @@
+.NavigationItem {
+    display: flex;
+    justify-content: center;
+}
+
+.NavigationItemTitle {
+    color: black;
+    text-decoration: none;
+    padding: 0 5px;
+  }
